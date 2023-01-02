@@ -3,4 +3,8 @@ Exercício 2 realizado em 12.01.2022
 
 link: https://danilovieiracosta1729.github.io/Exercicio-2-Guanabara/
 
-![image](https://user-images.githubusercontent.com/75656191/210188030-9ecc09a8-80fc-48e5-b029-d0a9a8745b8c.png)
+Página Inicial
+![image](https://user-images.githubusercontent.com/75656191/210188070-3510e550-47ed-4fcf-892a-7712edaa3c0f.png)
+
+Página do vídeo
+![image](https://user-images.githubusercontent.com/75656191/210188080-27d55712-b052-40ca-89d5-c0a3fb196ce4.png)
